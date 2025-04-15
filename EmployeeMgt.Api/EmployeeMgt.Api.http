@@ -1,0 +1,6 @@
+@EmployeeMgt.Api_HostAddress = http://localhost:5023
+
+GET {{EmployeeMgt.Api_HostAddress}}/Employee/Create/
+Accept: application/json
+
+###
